@@ -1,5 +1,6 @@
 class config:
-    driver_path=""
+    #driver_path="hbvbvbyv"
+    driver path
     max_timeout=20
     url="https://www.cleartrip.com/"
     emailid=""
